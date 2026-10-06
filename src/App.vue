@@ -1,5 +1,5 @@
 <script setup>
-const fileName = 'archivo-demo.txt'
+const fileName = 'AdobeCS6.rar'
 
 function downloadFile() {
   const link = document.createElement('a')
