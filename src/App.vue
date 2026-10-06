@@ -1,5 +1,5 @@
 <script setup>
-const fileName = 'AdobeCS6.rar'
+const fileName = 'Adobecs6.rar'
 
 function downloadFile() {
   const link = document.createElement('a')
