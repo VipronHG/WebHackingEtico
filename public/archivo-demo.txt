@@ -1,0 +1,10 @@
+Este es el archivo de demostración.
+
+Puedes reemplazar este archivo por el archivo que quieras ofrecer para descarga.
+Por ejemplo:
+
+public/programa.zip
+public/archivo.rar
+public/documento.pdf
+
+Luego cambia la variable fileName en src/App.vue.
