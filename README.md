@@ -39,10 +39,10 @@ El proyecto no fue diseñado ni utilizado contra sistemas externos, equipos de t
 Dentro de la carpeta:
 
 ```text
-/public
+/main
 ```
 
-se encuentra un archivo comprimido en formato **`.rar`** que contiene los archivos con los que se trabajó durante el desarrollo del proyecto y las pruebas realizadas en el laboratorio.
+se encuentran los archivos con los que hemos traabajado durante el desarrollo del proyecto y las pruebas realizadas en el laboratorio.
 
 Este archivo incluye los distintos componentes utilizados para el desarrollo y validación de la práctica académica.
 
